@@ -1,2 +1,2 @@
 # DataVisualisationCourse
-Some example code for data visualusation.
+Some example code for data visualisation.
